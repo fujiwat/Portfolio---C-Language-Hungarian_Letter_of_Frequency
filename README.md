@@ -22,6 +22,7 @@ Exe    file:  hlfc.exe
             2022.11.01  Ver 0.4     Add calculation of business hours in a year
 
 # Output which is in the file "hlfcResult.txt"
+```
 ---------[Grand Total]
  /---------------------\   /---------------------\   /---------------------\
  |E|10.2% xxxxxxxxxx:  |   |Á| 3.1% xxx.         |   |Ó| 0.8% :            |
@@ -62,3 +63,4 @@ If 50% of business hours need to type whole in a year,
   Hungarian business days in a year, 2022       :  254   [days]
   Business typing hours in a day                :    4   [hours]
   wpm:  word per minute (common sense)          :    5   [letters]
+```
