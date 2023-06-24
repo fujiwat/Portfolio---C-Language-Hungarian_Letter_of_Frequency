@@ -1,4 +1,5 @@
 # Hungarian Letter of Frequency Calculator
+700 lines, 10 days work
 
 hlfc - Hungarian letter frequency counter.
 
