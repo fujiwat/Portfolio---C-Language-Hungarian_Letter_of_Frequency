@@ -1,7 +1,7 @@
 # Hungarian Letter of Frequency Calculator
 700 lines, 10 days work
 
-hlfc - Hungarian letter frequency counter.
+hlfc - Hungarian letter frequency counter.<br>
 Knowledge:  Unicode, C Language
 
 
