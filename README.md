@@ -2,6 +2,8 @@
 700 lines, 10 days work
 
 hlfc - Hungarian letter frequency counter.
+Knowledge:  Unicode, C Language
+
 
 Source code:  hlfc.c
 Exe    file:  hlfc.exe
