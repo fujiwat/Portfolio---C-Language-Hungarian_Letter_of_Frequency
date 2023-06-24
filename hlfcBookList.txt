@@ -1,0 +1,22 @@
+#	Book List
+#	NOTE:  this file is created by UTF-8
+
+Ady Endre - Igy is történhetik - Novellák.1250.txt
+test.txt
+Ady Endre - Ki látott engem？ Versek.1250.txt
+Benedek Elek - Uzoni Margit - Regény fiatal leányok számára.1250.txt
+Benedek Elek - Édes anyaföldem! - Egy nép s egy ember története (1. kötet).1250.txt
+Jókai Mór - Az új földesúr 2.1250.txt
+Jókai Mór - Téli zöld -  Válogatott elbeszélések az ifjuság számára.1250.txt
+Karinthy Frigyes - Két mosoly.1250.txt
+Karinthy Frigyes - Ne bántsuk egymást - Ujabb tréfák.1250.txt
+Kosztolányi Dezső - A szegény kisgyermek panaszai.1250.txt
+Kosztolányi Dezső - Béla, a buta.1250.txt
+Krúdy Gyula - A bűvös erszény és egyéb elbeszélések.1250.txt
+Krúdy Gyula - Bukfenc.1250.txt
+Mikszáth Kálmán - Végzetes tévedés - Regény.1250.txt
+Mikszáth Kálmán - Öreg szekér fakó hám - Újabb elbeszélések.1250.txt
+Móricz Zsigmond - Szerelem (2. kötet).1250.txt
+Móricz Zsigmond - Sári biró - Vigjáték.1250.txt
+Tömörkény István - Különféle magyarok meg egyéb népek.1250.txt
+Tömörkény István - Vizenjárók és kétkézi munkások.1250.txt

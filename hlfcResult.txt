@@ -1,0 +1,644 @@
+﻿
+---------Ady Endre - Igy is történhetik - Novellák.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E| 9.8% xxxxxxxxxx.  |   |Z| 3.4% xxx:         |   |F| 1.0% x            |
+ |A| 9.1% xxxxxxxxx:   |   |Á| 3.0% xxx          |   |Ö| 0.9% :            |
+ |T| 8.6% xxxxxxxxx    |   |É| 2.6% xx:          |   |Ó| 0.8% :            |
+ |N| 6.4% xxxxxx:      |   |Y| 2.5% xx.          |   |Ő| 0.6% :            |
+ |S| 6.0% xxxxxx.      |   |D| 2.3% xx.          |   |Ü| 0.4% .            |
+ |L| 5.5% xxxxx:       |   |B| 1.9% xx           |   |Ú| 0.3% .            |
+ |O| 5.2% xxxxx.       |   |H| 1.9% xx           |   |Í| 0.3% .            |
+ |K| 4.6% xxxx:        |   |V| 1.8% x:           |   |W| 0.2%              |
+ |R| 4.4% xxxx:        |   |U| 1.4% x.           |   |Ű| 0.1%              |
+ |I| 4.3% xxxx:        |   |C| 1.2% x            |   |X| 0.0%              |
+ |M| 3.7% xxxx         |   |J| 1.2% x            |   |Q| 0.0%              |
+ |G| 3.5% xxx:         |   |P| 1.1% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   176301
+ - Punctuations    in Total letters    :     7889 ( 4.5%)
+ - [0-9] numbers   in Total letters    :      282 ( 0.2%)
+ - Total Alphabets in Total letters    :   168130 (95.4%)
+    -  Hungarian áéíóőöúűü in Alphabets:    15413 ( 9.2%)
+[Typing Speed]
+  Method[a] :    19.2 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    38.6 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    18.2 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696223164360586398 words in a year.
+  Method[a] reduces 510.1 hours (127.5 business days 4h typing) than Method[b]
+  Method[c] reduces 537.7 hours (134.4 business days 4h typing) than Method[b]
+  Method[c] reduces  27.6 hours (  6.9 business days 4h typing) than Method[a]
+
+---------test.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |Á|10.5% xxxxxxxxxxx. |   |Ő|10.5% xxxxxxxxxxx. |   |Ü|10.5% xxxxxxxxxxx. |
+ |É|10.5% xxxxxxxxxxx. |   |Ö|10.5% xxxxxxxxxxx. |   |E| 5.3% xxxxx:       |
+ |Í|10.5% xxxxxxxxxxx. |   |Ú|10.5% xxxxxxxxxxx. |   | |                   |
+ |Ó|10.5% xxxxxxxxxxx. |   |Ű|10.5% xxxxxxxxxxx. |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :       54
+ - Punctuations    in Total letters    :       35 (64.8%)
+ - [0-9] numbers   in Total letters    :        0 ( 0.0%)
+ - Total Alphabets in Total letters    :       19 (35.2%)
+    -  Hungarian áéíóőöúűü in Alphabets:       18 (94.7%)
+[Typing Speed]
+  Method[a] :     0.0 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :     0.0 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :     0.0 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4694888214755965151 words in a year.
+  Method[a] reduces 461.0 hours (115.2 business days 4h typing) than Method[b]
+  Method[c] reduces 624.2 hours (156.0 business days 4h typing) than Method[b]
+  Method[c] reduces 163.2 hours ( 40.8 business days 4h typing) than Method[a]
+
+---------Ady Endre - Ki látott engem？ Versek.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E| 9.6% xxxxxxxxxx.  |   |Z| 2.7% xx:          |   |F| 1.2% x            |
+ |A| 8.1% xxxxxxxx:    |   |Á| 2.7% xx:          |   |Ö| 0.9% :            |
+ |T| 7.2% xxxxxxx:     |   |D| 2.7% xx:          |   |Ó| 0.8% :            |
+ |N| 6.5% xxxxxxx      |   |É| 2.4% xx.          |   |Ü| 0.6% .            |
+ |S| 6.5% xxxxxxx      |   |H| 2.2% xx.          |   |Ő| 0.6% .            |
+ |O| 5.2% xxxxx.       |   |Y| 2.2% xx.          |   |W| 0.4% .            |
+ |L| 5.0% xxxxx.       |   |B| 1.9% xx           |   |Í| 0.3% .            |
+ |R| 4.9% xxxxx        |   |V| 1.9% xx           |   |Ú| 0.3% .            |
+ |K| 4.7% xxxxx        |   |U| 1.7% x:           |   |Ű| 0.1%              |
+ |I| 4.7% xxxxx        |   |C| 1.6% x:           |   |X| 0.1%              |
+ |M| 4.1% xxxx.        |   |J| 1.4% x.           |   |Q| 0.0%              |
+ |G| 3.4% xxx:         |   |P| 1.2% x.           |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :    76793
+ - Punctuations    in Total letters    :     3683 ( 4.8%)
+ - [0-9] numbers   in Total letters    :      389 ( 0.5%)
+ - Total Alphabets in Total letters    :    72721 (94.7%)
+    -  Hungarian áéíóőöúűü in Alphabets:     6380 ( 8.8%)
+[Typing Speed]
+  Method[a] :     9.1 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    19.6 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :     8.6 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4695083662252158047 words in a year.
+  Method[a] reduces 544.3 hours (136.1 business days 4h typing) than Method[b]
+  Method[c] reduces 568.1 hours (142.0 business days 4h typing) than Method[b]
+  Method[c] reduces  23.9 hours (  6.0 business days 4h typing) than Method[a]
+
+---------Benedek Elek - Uzoni Margit - Regény fiatal leányok számára.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.6% xxxxxxxxxxx. |   |Z| 3.7% xxx:         |   |C| 0.9% :            |
+ |A| 8.7% xxxxxxxxx.   |   |Á| 3.1% xxx          |   |F| 0.9% :            |
+ |T| 8.1% xxxxxxxx:    |   |É| 2.7% xx:          |   |Ó| 0.9% :            |
+ |N| 6.4% xxxxxx:      |   |Y| 2.5% xx:          |   |Ő| 0.7% :            |
+ |L| 5.9% xxxxxx.      |   |D| 2.5% xx:          |   |Ü| 0.5% .            |
+ |S| 5.8% xxxxxx       |   |V| 1.9% xx           |   |Í| 0.4% .            |
+ |M| 4.8% xxxxx        |   |H| 1.9% xx           |   |Ú| 0.3% .            |
+ |O| 4.6% xxxx:        |   |B| 1.8% x:           |   |W| 0.1%              |
+ |K| 4.2% xxxx.        |   |J| 1.2% x            |   |Ű| 0.1%              |
+ |I| 4.1% xxxx.        |   |U| 1.0% x            |   |X| 0.0%              |
+ |G| 3.9% xxxx         |   |Ö| 1.0% x            |   |Q| 0.0%              |
+ |R| 3.7% xxxx         |   |P| 1.0% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   244177
+ - Punctuations    in Total letters    :    13213 ( 5.4%)
+ - [0-9] numbers   in Total letters    :      201 ( 0.1%)
+ - Total Alphabets in Total letters    :   230763 (94.5%)
+    -  Hungarian áéíóőöúűü in Alphabets:    22158 ( 9.6%)
+[Typing Speed]
+  Method[a] :    27.1 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    55.5 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    25.5 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4695927961381613050 words in a year.
+  Method[a] reduces 519.4 hours (129.8 business days 4h typing) than Method[b]
+  Method[c] reduces 548.5 hours (137.1 business days 4h typing) than Method[b]
+  Method[c] reduces  29.1 hours (  7.3 business days 4h typing) than Method[a]
+
+---------Benedek Elek - Édes anyaföldem! - Egy nép s egy ember története (1. kötet).1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.4% xxxxxxxxxxx  |   |G| 3.6% xxx:         |   |C| 1.0% x            |
+ |A| 9.3% xxxxxxxxxx   |   |Á| 3.5% xxx:         |   |Ö| 1.0% x            |
+ |T| 7.1% xxxxxxx:     |   |É| 2.7% xx:          |   |Ó| 0.9% :            |
+ |N| 6.1% xxxxxx.      |   |D| 2.5% xx:          |   |Ő| 0.8% :            |
+ |S| 5.9% xxxxxx.      |   |Y| 2.5% xx:          |   |Ü| 0.7% :            |
+ |L| 5.6% xxxxxx       |   |B| 2.0% xx           |   |W| 0.1%              |
+ |K| 5.0% xxxxx.       |   |V| 1.8% x:           |   |Ú| 0.0%              |
+ |I| 4.6% xxxx:        |   |H| 1.7% x:           |   |X| 0.0%              |
+ |O| 4.2% xxxx.        |   |U| 1.4% x.           |   |Q| 0.0%              |
+ |R| 4.1% xxxx.        |   |J| 1.3% x.           |   |Í| 0.0%              |
+ |M| 4.0% xxxx         |   |F| 1.2% x            |   |Ä| 0.0%              |
+ |Z| 3.8% xxxx         |   |P| 1.1% x            |   |Ű| 0.0%              |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   436201
+ - Punctuations    in Total letters    :    21994 ( 5.0%)
+ - [0-9] numbers   in Total letters    :      591 ( 0.1%)
+ - Total Alphabets in Total letters    :   413620 (94.8%)
+    -  Hungarian áéíóőöúűü in Alphabets:    39773 ( 9.6%)
+[Typing Speed]
+  Method[a] :    47.9 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    96.3 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    45.0 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696153948690936070 words in a year.
+  Method[a] reduces 510.6 hours (127.7 business days 4h typing) than Method[b]
+  Method[c] reduces 541.2 hours (135.3 business days 4h typing) than Method[b]
+  Method[c] reduces  30.6 hours (  7.6 business days 4h typing) than Method[a]
+
+---------Jókai Mór - Az új földesúr 2.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.3% xxxxxxxxxxx  |   |G| 3.7% xxxx         |   |P| 0.9% x            |
+ |A| 9.0% xxxxxxxxx:   |   |Á| 2.9% xxx          |   |Ö| 0.9% :            |
+ |T| 8.3% xxxxxxxx:    |   |Y| 2.5% xx:          |   |Ó| 0.7% :            |
+ |N| 6.6% xxxxxxx      |   |É| 2.5% xx:          |   |Ő| 0.6% :            |
+ |L| 5.7% xxxxxx       |   |D| 2.4% xx.          |   |Ü| 0.5% .            |
+ |S| 5.5% xxxxx:       |   |H| 2.2% xx.          |   |W| 0.2%              |
+ |I| 4.9% xxxxx.       |   |V| 1.9% xx           |   |Ä| 0.1%              |
+ |O| 4.7% xxxxx        |   |B| 1.7% x:           |   |X| 0.0%              |
+ |R| 4.4% xxxx:        |   |U| 1.6% x:           |   |Ű| 0.0%              |
+ |M| 4.2% xxxx.        |   |J| 1.2% x            |   |Ú| 0.0%              |
+ |K| 3.9% xxxx         |   |C| 1.1% x            |   |Q| 0.0%              |
+ |Z| 3.7% xxxx         |   |F| 1.1% x            |   |Í| 0.0%              |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   180093
+ - Punctuations    in Total letters    :     8752 ( 4.9%)
+ - [0-9] numbers   in Total letters    :      332 ( 0.2%)
+ - Total Alphabets in Total letters    :   171103 (95.0%)
+    -  Hungarian áéíóőöúűü in Alphabets:    14032 ( 8.2%)
+[Typing Speed]
+  Method[a] :    19.9 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    40.0 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    18.7 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696099909072394286 words in a year.
+  Method[a] reduces 509.8 hours (127.4 business days 4h typing) than Method[b]
+  Method[c] reduces 540.3 hours (135.1 business days 4h typing) than Method[b]
+  Method[c] reduces  30.5 hours (  7.6 business days 4h typing) than Method[a]
+
+---------Jókai Mór - Téli zöld -  Válogatott elbeszélések az ifjuság számára.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.3% xxxxxxxxxxx  |   |G| 3.6% xxx:         |   |P| 0.9% :            |
+ |A| 9.3% xxxxxxxxxx   |   |Á| 3.2% xxx.         |   |C| 0.9% :            |
+ |T| 8.5% xxxxxxxxx    |   |É| 2.7% xx:          |   |Ő| 0.9% :            |
+ |L| 6.4% xxxxxx:      |   |Y| 2.4% xx.          |   |Ó| 0.7% :            |
+ |N| 5.7% xxxxxx       |   |D| 2.2% xx.          |   |Ü| 0.6% :            |
+ |S| 5.2% xxxxx.       |   |V| 2.2% xx.          |   |Í| 0.1%              |
+ |K| 4.7% xxxxx        |   |H| 1.9% xx           |   |W| 0.1%              |
+ |O| 4.4% xxxx:        |   |B| 1.8% x:           |   |Ű| 0.1%              |
+ |I| 4.4% xxxx:        |   |U| 1.3% x.           |   |Ú| 0.0%              |
+ |R| 4.3% xxxx:        |   |J| 1.2% x            |   |X| 0.0%              |
+ |Z| 4.0% xxxx.        |   |Ö| 1.1% x            |   |Q| 0.0%              |
+ |M| 3.8% xxxx         |   |F| 1.1% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   456078
+ - Punctuations    in Total letters    :    17633 ( 3.9%)
+ - [0-9] numbers   in Total letters    :      305 ( 0.1%)
+ - Total Alphabets in Total letters    :   438140 (96.1%)
+    -  Hungarian áéíóőöúűü in Alphabets:    41654 ( 9.5%)
+[Typing Speed]
+  Method[a] :    50.0 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :   100.7 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    47.1 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696150330511376326 words in a year.
+  Method[a] reduces 511.5 hours (127.9 business days 4h typing) than Method[b]
+  Method[c] reduces 541.1 hours (135.3 business days 4h typing) than Method[b]
+  Method[c] reduces  29.7 hours (  7.4 business days 4h typing) than Method[a]
+
+---------Karinthy Frigyes - Két mosoly.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|11.0% xxxxxxxxxxx: |   |Z| 3.2% xxx.         |   |J| 1.0% x            |
+ |A| 8.2% xxxxxxxx:    |   |É| 2.9% xxx          |   |Ö| 0.8% :            |
+ |T| 8.1% xxxxxxxx:    |   |D| 2.5% xx:          |   |Ő| 0.8% :            |
+ |N| 6.4% xxxxxx:      |   |Y| 2.3% xx.          |   |Ó| 0.7% :            |
+ |L| 5.7% xxxxxx       |   |Á| 2.3% xx.          |   |Ü| 0.5% .            |
+ |S| 5.6% xxxxxx       |   |H| 2.0% xx           |   |W| 0.3% .            |
+ |O| 5.3% xxxxx:       |   |B| 2.0% xx           |   |X| 0.0%              |
+ |I| 5.0% xxxxx.       |   |V| 1.7% x:           |   |Ú| 0.0%              |
+ |R| 4.4% xxxx:        |   |U| 1.6% x:           |   |Ű| 0.0%              |
+ |M| 4.4% xxxx:        |   |C| 1.3% x.           |   |Q| 0.0%              |
+ |K| 4.1% xxxx.        |   |F| 1.2% x            |   |Í| 0.0%              |
+ |G| 3.6% xxx:         |   |P| 1.1% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :    92411
+ - Punctuations    in Total letters    :     4026 ( 4.4%)
+ - [0-9] numbers   in Total letters    :      222 ( 0.2%)
+ - Total Alphabets in Total letters    :    88163 (95.4%)
+    -  Hungarian áéíóőöúűü in Alphabets:     7016 ( 8.0%)
+[Typing Speed]
+  Method[a] :    10.0 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    19.7 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :     9.4 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696432714205353866 words in a year.
+  Method[a] reduces 502.1 hours (125.5 business days 4h typing) than Method[b]
+  Method[c] reduces 529.4 hours (132.3 business days 4h typing) than Method[b]
+  Method[c] reduces  27.2 hours (  6.8 business days 4h typing) than Method[a]
+
+---------Karinthy Frigyes - Ne bántsuk egymást - Ujabb tréfák.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.8% xxxxxxxxxxx. |   |Z| 3.7% xxxx         |   |C| 1.0% x            |
+ |A| 8.5% xxxxxxxxx    |   |É| 3.0% xxx          |   |Ö| 0.9% :            |
+ |T| 7.5% xxxxxxxx     |   |Á| 2.8% xx:          |   |Ó| 0.8% :            |
+ |N| 6.4% xxxxxx:      |   |Y| 2.6% xx:          |   |Ő| 0.7% :            |
+ |L| 5.8% xxxxxx       |   |D| 2.3% xx.          |   |Ü| 0.6% .            |
+ |S| 5.5% xxxxx:       |   |B| 2.0% xx           |   |Í| 0.4% .            |
+ |O| 4.6% xxxxx        |   |H| 2.0% xx           |   |Ú| 0.3%              |
+ |K| 4.4% xxxx:        |   |V| 1.8% x:           |   |W| 0.1%              |
+ |I| 4.4% xxxx:        |   |U| 1.3% x.           |   |Ű| 0.1%              |
+ |M| 4.3% xxxx:        |   |J| 1.2% x            |   |X| 0.0%              |
+ |R| 4.2% xxxx.        |   |F| 1.1% x            |   |Q| 0.0%              |
+ |G| 4.0% xxxx.        |   |P| 1.1% x            |   |Ä| 0.0%              |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   212245
+ - Punctuations    in Total letters    :    13221 ( 6.2%)
+ - [0-9] numbers   in Total letters    :      644 ( 0.3%)
+ - Total Alphabets in Total letters    :   198381 (93.5%)
+    -  Hungarian áéíóőöúűü in Alphabets:    18870 ( 9.5%)
+[Typing Speed]
+  Method[a] :    23.5 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    47.3 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    22.0 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696087446719876843 words in a year.
+  Method[a] reduces 511.5 hours (127.9 business days 4h typing) than Method[b]
+  Method[c] reduces 543.7 hours (135.9 business days 4h typing) than Method[b]
+  Method[c] reduces  32.2 hours (  8.1 business days 4h typing) than Method[a]
+
+---------Kosztolányi Dezső - A szegény kisgyermek panaszai.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E| 9.9% xxxxxxxxxx:  |   |Z| 2.9% xxx          |   |J| 1.2% x            |
+ |A| 8.4% xxxxxxxxx    |   |Y| 2.6% xx:          |   |Ö| 0.8% :            |
+ |T| 7.4% xxxxxxxx     |   |É| 2.6% xx:          |   |Ó| 0.6% .            |
+ |N| 6.4% xxxxxx:      |   |Á| 2.5% xx:          |   |W| 0.6% .            |
+ |S| 6.3% xxxxxx:      |   |D| 2.4% xx.          |   |Ü| 0.5% .            |
+ |O| 5.8% xxxxxx       |   |H| 2.1% xx           |   |Ő| 0.5% .            |
+ |R| 5.4% xxxxx:       |   |B| 1.9% xx           |   |Ú| 0.3%              |
+ |L| 4.7% xxxxx        |   |C| 1.9% xx           |   |Í| 0.3%              |
+ |I| 4.6% xxxxx        |   |U| 1.7% x:           |   |Ű| 0.1%              |
+ |K| 4.1% xxxx.        |   |P| 1.6% x:           |   |X| 0.1%              |
+ |M| 3.5% xxx:         |   |V| 1.5% x.           |   |Q| 0.0%              |
+ |G| 3.4% xxx:         |   |F| 1.5% x.           |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :    53946
+ - Punctuations    in Total letters    :     2498 ( 4.6%)
+ - [0-9] numbers   in Total letters    :      268 ( 0.5%)
+ - Total Alphabets in Total letters    :    51180 (94.9%)
+    -  Hungarian áéíóőöúűü in Alphabets:     4143 ( 8.1%)
+[Typing Speed]
+  Method[a] :     6.4 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    13.7 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :     6.1 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4695144311464604436 words in a year.
+  Method[a] reduces 540.8 hours (135.2 business days 4h typing) than Method[b]
+  Method[c] reduces 565.3 hours (141.3 business days 4h typing) than Method[b]
+  Method[c] reduces  24.5 hours (  6.1 business days 4h typing) than Method[a]
+
+---------Kosztolányi Dezső - Béla, a buta.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.4% xxxxxxxxxxx  |   |M| 3.2% xxx.         |   |J| 1.1% x            |
+ |T| 9.1% xxxxxxxxx:   |   |É| 2.9% xxx          |   |Ö| 1.0% x            |
+ |A| 8.9% xxxxxxxxx.   |   |Á| 2.8% xxx          |   |Ő| 0.7% :            |
+ |N| 6.0% xxxxxx.      |   |Y| 2.6% xx:          |   |Ó| 0.6% .            |
+ |L| 5.8% xxxxxx       |   |D| 2.3% xx.          |   |Ü| 0.5% .            |
+ |S| 5.8% xxxxxx       |   |B| 2.0% xx           |   |Í| 0.3% .            |
+ |O| 5.1% xxxxx.       |   |H| 1.9% xx           |   |W| 0.3%              |
+ |R| 4.3% xxxx:        |   |V| 1.7% x:           |   |Ú| 0.3%              |
+ |I| 4.3% xxxx.        |   |U| 1.3% x.           |   |Ű| 0.1%              |
+ |K| 4.1% xxxx.        |   |F| 1.2% x.           |   |X| 0.0%              |
+ |G| 3.6% xxx:         |   |C| 1.2% x            |   |Q| 0.0%              |
+ |Z| 3.4% xxx.         |   |P| 1.2% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   106209
+ - Punctuations    in Total letters    :     4623 ( 4.4%)
+ - [0-9] numbers   in Total letters    :      232 ( 0.2%)
+ - Total Alphabets in Total letters    :   101354 (95.4%)
+    -  Hungarian áéíóőöúűü in Alphabets:     9276 ( 9.2%)
+[Typing Speed]
+  Method[a] :    11.5 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    23.1 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    10.9 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696275950679629379 words in a year.
+  Method[a] reduces 508.9 hours (127.2 business days 4h typing) than Method[b]
+  Method[c] reduces 536.6 hours (134.2 business days 4h typing) than Method[b]
+  Method[c] reduces  27.7 hours (  6.9 business days 4h typing) than Method[a]
+
+---------Krúdy Gyula - A bűvös erszény és egyéb elbeszélések.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E| 9.7% xxxxxxxxxx.  |   |G| 3.6% xxx:         |   |P| 1.0% x            |
+ |A| 9.5% xxxxxxxxxx   |   |Á| 3.1% xxx.         |   |Ö| 0.9% :            |
+ |T| 8.7% xxxxxxxxx.   |   |É| 2.7% xx:          |   |Ó| 0.7% :            |
+ |N| 5.9% xxxxxx.      |   |Y| 2.6% xx:          |   |Ő| 0.6% .            |
+ |L| 5.6% xxxxxx       |   |D| 2.4% xx.          |   |Ü| 0.4% .            |
+ |S| 5.4% xxxxx:       |   |B| 2.1% xx           |   |Ú| 0.3%              |
+ |O| 5.0% xxxxx.       |   |V| 2.0% xx           |   |Í| 0.2%              |
+ |K| 4.6% xxxx:        |   |H| 1.8% x:           |   |W| 0.2%              |
+ |R| 4.3% xxxx.        |   |C| 1.3% x.           |   |Ű| 0.1%              |
+ |I| 4.2% xxxx.        |   |U| 1.2% x            |   |X| 0.0%              |
+ |Z| 4.0% xxxx.        |   |F| 1.2% x            |   |Q| 0.0%              |
+ |M| 3.6% xxx:         |   |J| 1.1% x            |   |Ä| 0.0%              |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   194676
+ - Punctuations    in Total letters    :     8156 ( 4.2%)
+ - [0-9] numbers   in Total letters    :      248 ( 0.1%)
+ - Total Alphabets in Total letters    :   186273 (95.7%)
+    -  Hungarian áéíóőöúűü in Alphabets:    16686 ( 9.0%)
+[Typing Speed]
+  Method[a] :    21.3 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    42.7 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    20.1 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696209434303424482 words in a year.
+  Method[a] reduces 508.2 hours (127.1 business days 4h typing) than Method[b]
+  Method[c] reduces 538.6 hours (134.7 business days 4h typing) than Method[b]
+  Method[c] reduces  30.4 hours (  7.6 business days 4h typing) than Method[a]
+
+---------Krúdy Gyula - Bukfenc.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.0% xxxxxxxxxx:  |   |Á| 2.9% xxx          |   |Ő| 0.8% :            |
+ |A| 9.2% xxxxxxxxx:   |   |Y| 2.9% xxx          |   |Ó| 0.7% :            |
+ |T| 8.5% xxxxxxxxx    |   |É| 2.5% xx:          |   |Ü| 0.6% .            |
+ |N| 6.3% xxxxxx:      |   |D| 2.1% xx           |   |W| 0.2%              |
+ |L| 5.4% xxxxx:       |   |B| 1.9% xx           |   |X| 0.0%              |
+ |S| 5.4% xxxxx:       |   |V| 1.9% xx           |   |Ú| 0.0%              |
+ |O| 4.8% xxxxx        |   |H| 1.8% x:           |   |Ű| 0.0%              |
+ |I| 4.7% xxxxx        |   |U| 1.6% x:           |   |Í| 0.0%              |
+ |R| 4.6% xxxx:        |   |F| 1.3% x.           |   |Q| 0.0%              |
+ |K| 4.4% xxxx:        |   |C| 1.2% x            |   |Ä| 0.0%              |
+ |G| 4.1% xxxx.        |   |Ö| 1.1% x            |   |Ç| 0.0%              |
+ |M| 3.6% xxx:         |   |J| 1.1% x            |   | |                   |
+ |Z| 3.3% xxx.         |   |P| 1.1% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   136637
+ - Punctuations    in Total letters    :     5648 ( 4.1%)
+ - [0-9] numbers   in Total letters    :      298 ( 0.2%)
+ - Total Alphabets in Total letters    :   130693 (95.6%)
+    -  Hungarian áéíóőöúűü in Alphabets:    11391 ( 8.7%)
+[Typing Speed]
+  Method[a] :    14.8 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    29.1 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    13.9 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696431462511871059 words in a year.
+  Method[a] reduces 501.5 hours (125.4 business days 4h typing) than Method[b]
+  Method[c] reduces 531.4 hours (132.9 business days 4h typing) than Method[b]
+  Method[c] reduces  29.9 hours (  7.5 business days 4h typing) than Method[a]
+
+---------Mikszáth Kálmán - Végzetes tévedés - Regény.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.4% xxxxxxxxxxx  |   |É| 3.2% xxx.         |   |C| 0.7% :            |
+ |T| 9.1% xxxxxxxxx:   |   |Á| 3.0% xxx          |   |P| 0.6% :            |
+ |A| 8.2% xxxxxxxx:    |   |D| 2.6% xx:          |   |Ü| 0.6% .            |
+ |N| 6.5% xxxxxxx      |   |Y| 2.4% xx.          |   |Í| 0.2%              |
+ |L| 6.4% xxxxxx:      |   |V| 2.2% xx.          |   |Ú| 0.2%              |
+ |S| 5.4% xxxxx:       |   |H| 2.0% xx           |   |Ű| 0.1%              |
+ |O| 4.7% xxxxx        |   |B| 1.7% x:           |   |W| 0.1%              |
+ |M| 4.2% xxxx.        |   |J| 1.1% x            |   |X| 0.0%              |
+ |I| 4.2% xxxx.        |   |F| 1.0% x            |   |Q| 0.0%              |
+ |K| 4.1% xxxx.        |   |Ö| 1.0% x            |   |Ô| 0.0%              |
+ |R| 3.9% xxxx         |   |Ő| 0.9% :            |   |Ç| 0.0%              |
+ |Z| 3.8% xxxx         |   |U| 0.9% :            |   | |                   |
+ |G| 3.5% xxx:         |   |Ó| 0.9% :            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   447941
+ - Punctuations    in Total letters    :    25138 ( 5.6%)
+ - [0-9] numbers   in Total letters    :      268 ( 0.1%)
+ - Total Alphabets in Total letters    :   422538 (94.3%)
+    -  Hungarian áéíóőöúűü in Alphabets:    43068 (10.2%)
+[Typing Speed]
+  Method[a] :    48.9 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    96.4 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    45.6 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696356992206175198 words in a year.
+  Method[a] reduces 501.2 hours (125.3 business days 4h typing) than Method[b]
+  Method[c] reduces 535.6 hours (133.9 business days 4h typing) than Method[b]
+  Method[c] reduces  34.4 hours (  8.6 business days 4h typing) than Method[a]
+
+---------Mikszáth Kálmán - Öreg szekér fakó hám - Újabb elbeszélések.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.2% xxxxxxxxxxx  |   |Á| 3.0% xxx          |   |Ó| 0.7% :            |
+ |A| 9.2% xxxxxxxxxx   |   |Y| 2.6% xx:          |   |Ő| 0.6% :            |
+ |T| 8.3% xxxxxxxxx    |   |É| 2.6% xx:          |   |Ü| 0.5% .            |
+ |N| 6.3% xxxxxx:      |   |D| 2.2% xx.          |   |W| 0.1%              |
+ |S| 5.7% xxxxxx       |   |H| 2.0% xx           |   |Ú| 0.1%              |
+ |L| 5.4% xxxxx:       |   |B| 1.9% xx           |   |Ű| 0.0%              |
+ |I| 4.8% xxxxx        |   |V| 1.8% x:           |   |X| 0.0%              |
+ |O| 4.7% xxxxx        |   |U| 1.4% x.           |   |Í| 0.0%              |
+ |K| 4.5% xxxx:        |   |P| 1.2% x            |   |Q| 0.0%              |
+ |R| 4.2% xxxx.        |   |F| 1.1% x            |   |Ä| 0.0%              |
+ |M| 4.0% xxxx         |   |C| 1.1% x            |   |Ô| 0.0%              |
+ |Z| 3.8% xxxx         |   |J| 1.1% x            |   | |                   |
+ |G| 3.7% xxx:         |   |Ö| 1.0% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   275988
+ - Punctuations    in Total letters    :    13076 ( 4.7%)
+ - [0-9] numbers   in Total letters    :      275 ( 0.1%)
+ - Total Alphabets in Total letters    :   262639 (95.2%)
+    -  Hungarian áéíóőöúűü in Alphabets:    22808 ( 8.7%)
+[Typing Speed]
+  Method[a] :    30.4 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    61.1 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    28.6 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696136694259317221 words in a year.
+  Method[a] reduces 510.4 hours (127.6 business days 4h typing) than Method[b]
+  Method[c] reduces 540.0 hours (135.0 business days 4h typing) than Method[b]
+  Method[c] reduces  29.6 hours (  7.4 business days 4h typing) than Method[a]
+
+---------Móricz Zsigmond - Szerelem (2. kötet).1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.4% xxxxxxxxxxx  |   |Z| 3.0% xxx          |   |F| 1.3% x.           |
+ |A| 8.6% xxxxxxxxx    |   |Á| 2.7% xx:          |   |Ö| 0.7% :            |
+ |T| 7.5% xxxxxxxx     |   |Y| 2.6% xx:          |   |W| 0.5% .            |
+ |N| 7.0% xxxxxxx.     |   |D| 2.6% xx:          |   |Ó| 0.5% .            |
+ |S| 6.0% xxxxxx.      |   |H| 2.3% xx.          |   |Ü| 0.3% .            |
+ |I| 5.7% xxxxxx       |   |C| 2.1% xx           |   |Ő| 0.3%              |
+ |O| 5.5% xxxxx:       |   |B| 2.0% xx           |   |Í| 0.1%              |
+ |R| 4.7% xxxxx        |   |U| 1.9% xx           |   |Ú| 0.1%              |
+ |L| 4.5% xxxx:        |   |É| 1.9% xx           |   |X| 0.1%              |
+ |M| 4.0% xxxx         |   |V| 1.4% x.           |   |Ű| 0.0%              |
+ |G| 3.7% xxxx         |   |P| 1.4% x.           |   |Q| 0.0%              |
+ |K| 3.4% xxx:         |   |J| 1.4% x.           |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :    57927
+ - Punctuations    in Total letters    :     3503 ( 6.0%)
+ - [0-9] numbers   in Total letters    :      190 ( 0.3%)
+ - Total Alphabets in Total letters    :    54234 (93.6%)
+    -  Hungarian áéíóőöúűü in Alphabets:     3587 ( 6.6%)
+[Typing Speed]
+  Method[a] :     6.4 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    12.7 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :     6.1 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696202810033323202 words in a year.
+  Method[a] reduces 502.9 hours (125.7 business days 4h typing) than Method[b]
+  Method[c] reduces 532.3 hours (133.1 business days 4h typing) than Method[b]
+  Method[c] reduces  29.4 hours (  7.4 business days 4h typing) than Method[a]
+
+---------Móricz Zsigmond - Sári biró - Vigjáték.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |E| 9.8% xxxxxxxxxx.  |   |Z| 3.4% xxx.         |   |P| 1.2% x            |
+ |A| 9.0% xxxxxxxxx:   |   |Á| 2.8% xxx          |   |F| 1.1% x            |
+ |T| 6.9% xxxxxxx.     |   |D| 2.5% xx:          |   |Í| 0.8% :            |
+ |N| 6.8% xxxxxxx.     |   |H| 2.5% xx.          |   |Ö| 0.6% .            |
+ |I| 5.7% xxxxxx       |   |B| 2.3% xx.          |   |Ő| 0.4% .            |
+ |S| 5.5% xxxxx:       |   |Y| 2.3% xx.          |   |Ü| 0.3% .            |
+ |O| 4.5% xxxx:        |   |J| 2.0% xx           |   |W| 0.3% .            |
+ |R| 4.5% xxxx:        |   |Ó| 1.9% xx           |   |Ú| 0.2%              |
+ |M| 4.2% xxxx.        |   |V| 1.6% x:           |   |Ű| 0.1%              |
+ |L| 4.1% xxxx.        |   |C| 1.6% x:           |   |X| 0.0%              |
+ |K| 4.0% xxxx.        |   |U| 1.6% x:           |   |Q| 0.0%              |
+ |G| 3.7% xxxx         |   |É| 1.6% x:           |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   103318
+ - Punctuations    in Total letters    :     9215 ( 8.9%)
+ - [0-9] numbers   in Total letters    :      210 ( 0.2%)
+ - Total Alphabets in Total letters    :    93893 (90.9%)
+    -  Hungarian áéíóőöúűü in Alphabets:     8184 ( 8.7%)
+[Typing Speed]
+  Method[a] :    11.7 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    23.2 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    10.8 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696029268189023355 words in a year.
+  Method[a] reduces 502.5 hours (125.6 business days 4h typing) than Method[b]
+  Method[c] reduces 541.3 hours (135.3 business days 4h typing) than Method[b]
+  Method[c] reduces  38.8 hours (  9.7 business days 4h typing) than Method[a]
+
+---------Tömörkény István - Különféle magyarok meg egyéb népek.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |A| 9.7% xxxxxxxxxx.  |   |G| 3.4% xxx:         |   |C| 1.0% x            |
+ |E| 9.4% xxxxxxxxxx   |   |Á| 3.3% xxx.         |   |F| 1.0% x            |
+ |T| 7.8% xxxxxxxx.    |   |É| 2.5% xx:          |   |Ó| 0.9% :            |
+ |N| 6.5% xxxxxxx      |   |Y| 2.5% xx.          |   |Ő| 0.6% :            |
+ |S| 5.7% xxxxxx       |   |D| 2.3% xx.          |   |Ü| 0.5% .            |
+ |L| 5.6% xxxxxx       |   |B| 2.2% xx.          |   |Ú| 0.4% .            |
+ |O| 4.7% xxxxx        |   |H| 2.0% xx           |   |Í| 0.4% .            |
+ |K| 4.6% xxxx:        |   |V| 1.9% xx           |   |W| 0.1%              |
+ |I| 4.4% xxxx:        |   |J| 1.3% x.           |   |Ű| 0.1%              |
+ |R| 4.4% xxxx:        |   |U| 1.2% x            |   |X| 0.0%              |
+ |Z| 3.7% xxxx         |   |Ö| 1.2% x            |   |Q| 0.0%              |
+ |M| 3.6% xxx:         |   |P| 1.1% x            |   |Ä| 0.0%              |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   228711
+ - Punctuations    in Total letters    :    10517 ( 4.6%)
+ - [0-9] numbers   in Total letters    :      438 ( 0.2%)
+ - Total Alphabets in Total letters    :   217757 (95.2%)
+    -  Hungarian áéíóőöúűü in Alphabets:    21482 ( 9.9%)
+[Typing Speed]
+  Method[a] :    25.3 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    51.2 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    23.8 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696041195061615675 words in a year.
+  Method[a] reduces 513.3 hours (128.3 business days 4h typing) than Method[b]
+  Method[c] reduces 543.8 hours (136.0 business days 4h typing) than Method[b]
+  Method[c] reduces  30.5 hours (  7.6 business days 4h typing) than Method[a]
+
+---------Tömörkény István - Vizenjárók és kétkézi munkások.1250.txt
+ /---------------------\   /---------------------\   /---------------------\
+ |A|10.1% xxxxxxxxxx:  |   |G| 3.4% xxx:         |   |F| 1.1% x            |
+ |E| 9.3% xxxxxxxxxx   |   |Á| 3.4% xxx.         |   |C| 1.0% x            |
+ |T| 7.3% xxxxxxx:     |   |É| 2.6% xx:          |   |Ó| 0.9% :            |
+ |N| 6.5% xxxxxxx      |   |Y| 2.5% xx:          |   |Ő| 0.6% :            |
+ |L| 5.7% xxxxxx       |   |D| 2.3% xx.          |   |Ü| 0.5% .            |
+ |S| 5.6% xxxxxx       |   |H| 2.1% xx           |   |W| 0.1%              |
+ |K| 5.0% xxxxx.       |   |B| 2.0% xx           |   |Ú| 0.0%              |
+ |I| 4.7% xxxxx        |   |V| 1.9% xx           |   |X| 0.0%              |
+ |O| 4.4% xxxx:        |   |U| 1.4% x.           |   |Ű| 0.0%              |
+ |R| 4.2% xxxx.        |   |J| 1.3% x.           |   |Q| 0.0%              |
+ |Z| 3.8% xxxx         |   |Ö| 1.3% x.           |   |Í| 0.0%              |
+ |M| 3.7% xxxx         |   |P| 1.1% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :   291997
+ - Punctuations    in Total letters    :    12546 ( 4.3%)
+ - [0-9] numbers   in Total letters    :      258 ( 0.1%)
+ - Total Alphabets in Total letters    :   279193 (95.6%)
+    -  Hungarian áéíóőöúűü in Alphabets:    26210 ( 9.4%)
+[Typing Speed]
+  Method[a] :    32.5 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :    66.7 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :    30.7 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4695892836564501098 words in a year.
+  Method[a] reduces 520.1 hours (130.0 business days 4h typing) than Method[b]
+  Method[c] reduces 548.1 hours (137.0 business days 4h typing) than Method[b]
+  Method[c] reduces  28.0 hours (  7.0 business days 4h typing) than Method[a]
+
+---------[Grand Total]
+ /---------------------\   /---------------------\   /---------------------\
+ |E|10.2% xxxxxxxxxx:  |   |Á| 3.1% xxx.         |   |Ó| 0.8% :            |
+ |A| 9.0% xxxxxxxxx:   |   |É| 2.7% xx:          |   |Ő| 0.7% :            |
+ |T| 8.1% xxxxxxxx:    |   |Y| 2.5% xx:          |   |Ü| 0.5% .            |
+ |N| 6.3% xxxxxx:      |   |D| 2.4% xx.          |   |Í| 0.2%              |
+ |L| 5.7% xxxxxx       |   |H| 2.0% xx           |   |Ú| 0.2%              |
+ |S| 5.6% xxxxxx       |   |B| 1.9% xx           |   |W| 0.1%              |
+ |O| 4.7% xxxxx        |   |V| 1.9% xx           |   |Ű| 0.1%              |
+ |I| 4.5% xxxx:        |   |U| 1.3% x.           |   |X| 0.0%              |
+ |K| 4.5% xxxx:        |   |J| 1.2% x            |   |Q| 0.0%              |
+ |R| 4.3% xxxx.        |   |F| 1.1% x            |   |Ä| 0.0%              |
+ |M| 4.0% xxxx         |   |C| 1.1% x            |   |Ô| 0.0%              |
+ |Z| 3.7% xxxx         |   |P| 1.0% x            |   |Ç| 0.0%              |
+ |G| 3.6% xxx:         |   |Ö| 1.0% x            |   | |                   |
+ \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/   \--------+-+-+-+-+-+-*/
+          0 2 4 6 8 10              0 2 4 6 8 10              0 2 4 6 8 10    
+          % % % % % % 12%+          % % % % % % 12%+          % % % % % % 12%+
+Total letters                          :  3771703
+ - Punctuations    in Total letters    :   185366 ( 4.9%)
+ - [0-9] numbers   in Total letters    :     5651 ( 0.1%)
+ - Total Alphabets in Total letters    :  3580794 (94.9%)
+    -  Hungarian áéíóőöúűü in Alphabets:   332149 ( 9.3%)
+[Typing Speed]
+  Method[a] :   416.0 hours - Hungarian keyboard (using 23 to 48wpm)
+  Method[b] :   837.5 hours - Use mouse (using 6 to 48wpm)
+  Method[c] :   391.0 hours - Use shortcut key (using 24 to 48wpm)
+If 50% of business hours need to type whole in a year,
+  Method[b] is the slowest, able to type 4696107991962213867 words in a year.
+  Method[a] reduces 511.3 hours (127.8 business days 4h typing) than Method[b]
+  Method[c] reduces 541.6 hours (135.4 business days 4h typing) than Method[b]
+  Method[c] reduces  30.3 hours (  7.6 business days 4h typing) than Method[a]
+-----------------------------------------------------------------------------------
+[Configuration]
+  Typing Speed (same as familiar keyboard       :   47.5 [wpm] (0.252632 sec/letter)
+  Typing Speed (different from familiar keyboard:   22.9 [wpm] (0.522876 sec/letter)
+  Typing Speed (using mouse back to the keyboard:    6.0 [wpm] (2.000000 sec/letter)
+  Hungarian business days in a year, 2022       :  254   [days]
+  Business typing hours in a day                :    4   [hours]
+  wpm:  word per minute (common sense)          :    5   [letters]
