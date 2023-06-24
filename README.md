@@ -4,7 +4,7 @@
 hlfc - Hungarian letter frequency counter.<br>
 Knowledge:  Unicode, Codepage, C Language
 
-
+```
 Source code:  hlfc.c
 Exe    file:  hlfc.exe
 
@@ -20,6 +20,7 @@ Exe    file:  hlfc.exe
             2022.10.30  Ver 0.2     Calculate hungarian letter áéíóőöúűü total occurence.
             2022.10.31  Ver 0.3     Add typeing speed.  Support UTF-8 BOM header for the output file.
             2022.11.01  Ver 0.4     Add calculation of business hours in a year
+```
 
 # Output which is in the file "hlfcResult.txt"
 ```
